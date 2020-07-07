@@ -1,1 +1,1 @@
-# studing-c-
+# studing c++
